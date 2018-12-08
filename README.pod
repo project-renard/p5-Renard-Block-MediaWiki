@@ -4,7 +4,7 @@
 
 =head1 NAME
 
-Renard::Incunabula::Source::MediaWiki - A source for MediaWiki data
+Renard::Block::MediaWiki - A source for MediaWiki data
 
 =head1 VERSION
 
@@ -12,9 +12,7 @@ version 0.001
 
 =head1 SEE ALSO
 
-L<Repository information|http://project-renard.github.io/doc/development/repo/p5-Renard-Incunabula-Source-MediaWiki/>
-
-~/sw_projects/project-renard/project-renard.github.io/project-renard.github.io/doc/development/repo/p5-Renard-Incunabula-Source-MediaWiki/index.mdwn
+L<Repository information|http://project-renard.github.io/doc/development/repo/p5-Renard-Block-MediaWiki/>
 
 =head1 AUTHOR
 
